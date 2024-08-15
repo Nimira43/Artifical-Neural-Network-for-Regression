@@ -135,6 +135,4 @@ This term is often used to describe relationships or models that assume a linear
 
 ### Graph: 
 
-In this context, a graph typically refers to a visual representation of data. For linear regression, this would be a scatter plot of the data points with the regression line plotted to show the relationship between the variables1
-=======
->>>>>>> 0728d0dd99ca6ce507a256174199b0c8de3dd760
+In this context, a graph typically refers to a visual representation of data. For linear regression, this would be a scatter plot of the data points with the regression line plotted to show the relationship between the variables.
