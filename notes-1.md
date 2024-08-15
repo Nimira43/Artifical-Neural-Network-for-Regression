@@ -133,6 +133,6 @@ This usually refers to the straight line that represents the relationship betwee
 
 This term is often used to describe relationships or models that assume a linear relationship between input variables (features) and the output variable (target). Linear regression is a common example, where the goal is to find the best-fitting straight line through the data points.
 
-### Graph: 
+### Graph
 
 In this context, a graph typically refers to a visual representation of data. For linear regression, this would be a scatter plot of the data points with the regression line plotted to show the relationship between the variables.
